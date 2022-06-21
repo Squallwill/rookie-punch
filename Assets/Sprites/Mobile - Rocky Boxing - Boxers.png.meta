@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: 57611bee419ead043aed5e6ae8f92c8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7318182935321215488
+    second: Mobile - Rocky Boxing - Boxers_0
+  - first:
+      213: -3937726256977165982
+    second: Mobile - Rocky Boxing - Boxers_1
+  - first:
+      213: -8325778856293518976
+    second: Mobile - Rocky Boxing - Boxers_2
+  - first:
+      213: -1569336665077581015
+    second: Mobile - Rocky Boxing - Boxers_3
+  - first:
+      213: 6517712610670171471
+    second: Mobile - Rocky Boxing - Boxers_4
+  - first:
+      213: -7848713210792633624
+    second: Mobile - Rocky Boxing - Boxers_5
+  - first:
+      213: 4591670436349756910
+    second: Mobile - Rocky Boxing - Boxers_6
+  - first:
+      213: 7267181948571372679
+    second: Mobile - Rocky Boxing - Boxers_7
+  - first:
+      213: -8036272783862385272
+    second: Mobile - Rocky Boxing - Boxers_8
+  - first:
+      213: -1443539711208316655
+    second: Mobile - Rocky Boxing - Boxers_9
+  - first:
+      213: 1732954843723029150
+    second: Mobile - Rocky Boxing - Boxers_10
+  - first:
+      213: 2776228594018546852
+    second: Mobile - Rocky Boxing - Boxers_61
+  - first:
+      213: -7011651566158515182
+    second: Mobile - Rocky Boxing - Boxers_12
+  - first:
+      213: 1824445266567874565
+    second: Mobile - Rocky Boxing - Boxers_13
+  - first:
+      213: 6831822956413712559
+    second: Mobile - Rocky Boxing - Boxers_14
+  - first:
+      213: -6103740539375166828
+    second: Mobile - Rocky Boxing - Boxers_15
+  - first:
+      213: 503953170547276181
+    second: Mobile - Rocky Boxing - Boxers_16
+  - first:
+      213: 7198864454189078330
+    second: Mobile - Rocky Boxing - Boxers_17
+  - first:
+      213: -5566857451060748807
+    second: Mobile - Rocky Boxing - Boxers_18
+  - first:
+      213: 4022406879077066530
+    second: Mobile - Rocky Boxing - Boxers_19
+  - first:
+      213: -1079739715724341347
+    second: Mobile - Rocky Boxing - Boxers_20
+  - first:
+      213: -523793770480696440
+    second: Mobile - Rocky Boxing - Boxers_21
+  - first:
+      213: -6817791566580149671
+    second: Mobile - Rocky Boxing - Boxers_22
+  - first:
+      213: 5990026444204901656
+    second: Mobile - Rocky Boxing - Boxers_23
+  - first:
+      213: -6962119239163177262
+    second: Mobile - Rocky Boxing - Boxers_24
+  - first:
+      213: -360067185531721055
+    second: Mobile - Rocky Boxing - Boxers_25
+  - first:
+      213: 7198230667298863158
+    second: Mobile - Rocky Boxing - Boxers_26
+  - first:
+      213: 1304168282664991203
+    second: Mobile - Rocky Boxing - Boxers_27
+  - first:
+      213: -7184817377260573724
+    second: Mobile - Rocky Boxing - Boxers_28
+  - first:
+      213: 4395167205521982012
+    second: Mobile - Rocky Boxing - Boxers_29
+  - first:
+      213: 8377173503613636151
+    second: Mobile - Rocky Boxing - Boxers_30
+  - first:
+      213: 5183833697746028873
+    second: Mobile - Rocky Boxing - Boxers_31
+  - first:
+      213: 4265734923700296232
+    second: Mobile - Rocky Boxing - Boxers_32
+  - first:
+      213: -3810236661110555618
+    second: Mobile - Rocky Boxing - Boxers_33
+  - first:
+      213: 2262147523238201595
+    second: Mobile - Rocky Boxing - Boxers_34
+  - first:
+      213: 1459555081232549813
+    second: Mobile - Rocky Boxing - Boxers_35
+  - first:
+      213: 1560970478173973390
+    second: Mobile - Rocky Boxing - Boxers_36
+  - first:
+      213: -7643174954658519093
+    second: Mobile - Rocky Boxing - Boxers_37
+  - first:
+      213: -2980538954846644060
+    second: Mobile - Rocky Boxing - Boxers_38
+  - first:
+      213: -6919117427269090786
+    second: Mobile - Rocky Boxing - Boxers_39
+  - first:
+      213: -3521740771032535482
+    second: Mobile - Rocky Boxing - Boxers_40
+  - first:
+      213: -4061982713776023597
+    second: Mobile - Rocky Boxing - Boxers_41
+  - first:
+      213: -7709500114900655782
+    second: Mobile - Rocky Boxing - Boxers_42
+  - first:
+      213: 1545394460087089071
+    second: Mobile - Rocky Boxing - Boxers_43
+  - first:
+      213: 9191287243814961302
+    second: Mobile - Rocky Boxing - Boxers_44
+  - first:
+      213: -1736823054576027470
+    second: Mobile - Rocky Boxing - Boxers_45
+  - first:
+      213: 2653723069778570439
+    second: Mobile - Rocky Boxing - Boxers_46
+  - first:
+      213: -1018160092275291410
+    second: Mobile - Rocky Boxing - Boxers_47
+  - first:
+      213: -4524724232328850617
+    second: Mobile - Rocky Boxing - Boxers_48
+  - first:
+      213: -2618962287141558592
+    second: Mobile - Rocky Boxing - Boxers_49
+  - first:
+      213: 8814212957339957221
+    second: Mobile - Rocky Boxing - Boxers_50
+  - first:
+      213: 1871937786327560644
+    second: Mobile - Rocky Boxing - Boxers_51
+  - first:
+      213: -5632877185879765378
+    second: Mobile - Rocky Boxing - Boxers_52
+  - first:
+      213: -7518600911882636330
+    second: Mobile - Rocky Boxing - Boxers_53
+  - first:
+      213: -2046132036429185480
+    second: Mobile - Rocky Boxing - Boxers_54
+  - first:
+      213: -4073985240439541789
+    second: Mobile - Rocky Boxing - Boxers_55
+  - first:
+      213: -4825785290803164372
+    second: Mobile - Rocky Boxing - Boxers_56
+  - first:
+      213: 7046336854500859493
+    second: Mobile - Rocky Boxing - Boxers_57
+  - first:
+      213: 5393376832042457688
+    second: Mobile - Rocky Boxing - Boxers_58
+  - first:
+      213: 1997304374123251611
+    second: Mobile - Rocky Boxing - Boxers_59
+  - first:
+      213: 6776896297894793640
+    second: Mobile - Rocky Boxing - Boxers_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 309
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7adac467907a90800000000000000
+      internalID: -7318182935321215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 309
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c52e05d26a59c0800000000000000
+      internalID: -3937726256977165982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 309
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ba28fd34e47c80800000000000000
+      internalID: -8325778856293518976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 309
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfd092e98983ae0800000000000000
+      internalID: -1569336665077581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 309
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45541b4611937a50800000000000000
+      internalID: 6517712610670171471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 309
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1ac64be4c31390800000000000000
+      internalID: -7848713210792633624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 309
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54a442fe3e8bf30800000000000000
+      internalID: 4591670436349756910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 309
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4ab2aa773ad460800000000000000
+      internalID: 7267181948571372679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 309
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8853eb72b7c697090800000000000000
+      internalID: -8036272783862385272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 309
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112246e74487fbe0800000000000000
+      internalID: -1443539711208316655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 309
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a57efaf31bc0810800000000000000
+      internalID: 1732954843723029150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f1c97235278620800000000000000
+      internalID: 2776228594018546852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 309
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147f46cc0c91be90800000000000000
+      internalID: -7011651566158515182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 237
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508cbe9bd4bb15910800000000000000
+      internalID: 1824445266567874565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 237
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f56548c28fce50800000000000000
+      internalID: 6831822956413712559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 237
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a546581582b4ba0800000000000000
+      internalID: -6103740539375166828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 237
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f6e11db66ef600800000000000000
+      internalID: 503953170547276181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 237
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375022741187e360800000000000000
+      internalID: 7198864454189078330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 237
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd994a84ac8eb2b0800000000000000
+      internalID: -5566857451060748807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 237
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e971beb572d730800000000000000
+      internalID: 4022406879077066530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 237
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8e52037ef301f0800000000000000
+      internalID: -1079739715724341347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 237
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838fe6475c1bb8f0800000000000000
+      internalID: -523793770480696440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 237
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952165141b65261a0800000000000000
+      internalID: -6817791566580149671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 238
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81587028059d02350800000000000000
+      internalID: 5990026444204901656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 238
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d614c95075916f90800000000000000
+      internalID: -6962119239163177262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 236
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6b1f6dc8c00bf0800000000000000
+      internalID: -360067185531721055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638fbaf67a045e360800000000000000
+      internalID: 7198230667298863158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 162
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f39fa426591210800000000000000
+      internalID: 1304168282664991203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 162
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb645489a66a4c90800000000000000
+      internalID: -7184817377260573724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 162
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32859d6945cefc30800000000000000
+      internalID: 4395167205521982012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e84b8dae2b14470800000000000000
+      internalID: 8377173503613636151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 162
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490ad0784da0f740800000000000000
+      internalID: 5183833697746028873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5221ff4fe23b30800000000000000
+      internalID: 4265734923700296232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb558b1f15f1bc0800000000000000
+      internalID: -3810236661110555618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 162
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf88420ef23c46f10800000000000000
+      internalID: 2262147523238201595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 162
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78bf20d91614410800000000000000
+      internalID: 1459555081232549813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 162
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6e68216ea9a510800000000000000
+      internalID: 1560970478173973390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 162
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7aa6fbfdcfde590800000000000000
+      internalID: -7643174954658519093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d625bc9ff2a6d0800000000000000
+      internalID: -2980538954846644060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124964eb5b5aff90800000000000000
+      internalID: -6919117427269090786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 84
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e689f7d63402fc0800000000000000
+      internalID: -3521740771032535482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 84
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d75a9d3e30f0a7c0800000000000000
+      internalID: -4061982713776023597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 84
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51638ffd7a520590800000000000000
+      internalID: -7709500114900655782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 84
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f857d218527510800000000000000
+      internalID: 1545394460087089071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908b2cfc030e8f70800000000000000
+      internalID: 9191287243814961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 84
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8794a42a095e7e0800000000000000
+      internalID: -1736823054576027470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 84
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc296a621be3d420800000000000000
+      internalID: 2653723069778570439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 84
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac37f5ac4ced1f0800000000000000
+      internalID: -1018160092275291410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 84
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743df61a843f431c0800000000000000
+      internalID: -4524724232328850617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 84
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c668cafca397abd0800000000000000
+      internalID: -2618962287141558592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b4e82cff525a70800000000000000
+      internalID: 8814212957339957221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17fabaf757af910800000000000000
+      internalID: 1871937786327560644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e0c303b0004d1b0800000000000000
+      internalID: -5632877185879765378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_53
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3be4f4e4098a790800000000000000
+      internalID: -7518600911882636330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7715f0cdaa93e0800000000000000
+      internalID: -2046132036429185480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 7
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaa6b320c4677c0800000000000000
+      internalID: -4073985240439541789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4f5b98dd570db0800000000000000
+      internalID: -4825785290803164372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e544c390e99c160800000000000000
+      internalID: 7046336854500859493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a56b547af19da40800000000000000
+      internalID: 5393376832042457688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9743fffeb9d7bb10800000000000000
+      internalID: 1997304374123251611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Rocky Boxing - Boxers_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 7
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1dda3074f5c0e50800000000000000
+      internalID: 6776896297894793640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
